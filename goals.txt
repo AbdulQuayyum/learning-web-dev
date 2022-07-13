@@ -1,34 +1,51 @@
 Days 1- 7: Learn the basics of web development and HTML
-You have to start somewhere and someday right? Here is what you should start. Start learning the basics of Web development like how the internet works, some protocols such as HTTP, how a code run’s one browser, etc. These are some concepts that should be crystal clear in your beginning days. The next thing is, start with HTML. When you talk about web development, HTML is the first thing that you should learn, because it’s a building block of the Web.
-Thus, in your first 7 days, start with HTML and learn basic to advanced HTML. Learn how we can create various web layouts and how to use various web elements. Once you are done with the web development basics and HTML, you are ready to move ahead with your web development journey.
+You have to start somewhere and someday right? Here is what you should start. Start learning the basics of Web development like how the internet works, 
+some protocols such as HTTP, how a code run’s one browser, etc. These are some concepts that should be crystal clear in your beginning days. zyou talk about web development, HTML is the first thing that you should learn, because it’s a building block of the Web.
+Thus, in your first 7 days, start with HTML and learn basic to advanced HTML. Learn how we can create various web layouts and how to use various web elements. 
+Once you are done with the web development basics and HTML, you are ready to move ahead with your web development journey.
 
 Days 8- 15: Start adding styles to your Layouts - Learn CSS
-The next step is to add some styling to your HTML web layouts. That can be done using CSS. If HTML is the skeleton of a web page, then CSS gives the muscles to your page. All the animations, colors, images that you see on a web page, all that is done with the help of CSS. Start with the basics of CSS such as background and font manipulation and learn up to advanced topics such as Pseudo-elements and classes and positioning in CSS.
+The next step is to add some styling to your HTML web layouts. That can be done using CSS. If HTML is the skeleton of a web page, then CSS gives the muscles 
+to your page. All the animations, colors, images that you see on a web page, all that is done with the help of CSS. Start with the basics of CSS such as 
+background and font manipulation and learn up to advanced topics such as Pseudo-elements and classes and positioning in CSS.
 Thus, by the end of these 15 days, you will be ready to create some simple static websites using HTML and CSS.
 
 Day 16- 20: Understand what is Responsive Web Design and Learn CSS Media Queries
-With the growing technologies and devices such as tablets and mobiles, Internet access has come into our pockets, and according to a stat, around 60% of people access various websites through their mobile phones. Thus, start understanding how responsive web development works and how we can make a website responsive to various devices. Learn CSS media queries that help for the same. With this, you will be able to turn your HTML-CSS websites into responsive sites that work well on mobile phones.
+With the growing technologies and devices such as tablets and mobiles, Internet access has come into our pockets, and according to a stat, around 60% of 
+people access various websites through their mobile phones. Thus, start understanding how responsive web development works and how we can make a website 
+responsive to various devices. Learn CSS media queries that help for the same. With this, you will be able to turn your HTML-CSS websites into responsive 
+sites that work well on mobile phones.
 
 Day 21- 35: Learn JavaScript Basics - Start adding life to your web pages
-JavaScript is an important element of the modern web. In this modern world, one can’t think of a web application, without JavaScript. Once you know how the web works and have a sound knowledge of HTML, CSS, and Responsive Web Design, it’s the correct time to start with JavaScript.
-Start with the basics of JavaScript Programming and make your JS Programming fundamentals clear. Learn various JS Programming constructs, Data types, Loops, objects, and much more. Work on JS Programming skills and make you JS super strong, this will ensure a strong Web development career.
+JavaScript is an important element of the modern web. In this modern world, one can’t think of a web application, without JavaScript. Once you know how the 
+web works and have a sound knowledge of HTML, CSS, and Responsive Web Design, it’s the correct time to start with JavaScript.
+Start with the basics of JavaScript Programming and make your JS Programming fundamentals clear. Learn various JS Programming constructs, Data types, Loops, 
+objects, and much more. Work on JS Programming skills and make you JS super strong, this will ensure a strong Web development career.
 
 Day 36- 50: Learn the Modern JS - JavaScript Advanced and ES6
-Once the base is strong, you can move and dive deep into JS. Learn various advanced JS concepts such as object manipulation, Object-oriented programming in JS, Various ES6 concepts such as requests and promises, arrow functions, and more. Learn about APIs and how to work with API’s using JS since it’s the base of any application to manipulate data. Thus, within these 30 days, you can become a master in JS Programming and then it will be a perfect time to take your JS skills to the web.
+Once the base is strong, you can move and dive deep into JS. Learn various advanced JS concepts such as object manipulation, Object-oriented programming in JS, 
+Various ES6 concepts such as requests and promises, arrow functions, and more. Learn about APIs and how to work with API’s using JS since it’s the base of any application to manipulate data. Thus, within these 30 days, you can become a master in JS Programming and then it will be a perfect time to take your JS skills
+to the web.
 
 Day 51- 60: DOM AND Various JS Browser-based Objects
-JavaScript DOM is all about using JavaScript over the web. Learn how you can manipulate HTML elements using JS DOM and how can you dynamically add and remove styling to your pages. DOM makes a web page dynamic and that is what makes your web page look alive. Master DOM manipulation and you can create amazing sites such as shopping carts, Netflix clone and so much more. At this stage, you will be ready to take up and create small projects at personal and commercial levels.
+JavaScript DOM is all about using JavaScript over the web. Learn how you can manipulate HTML elements using JS DOM and how can you dynamically add and remove 
+styling to your pages. DOM makes a web page dynamic and that is what makes your web page look alive. Master DOM manipulation and you can create amazing sites 
+such as shopping carts, Netflix clone and so much more. At this stage, you will be ready to take up and create small projects at personal and commercial levels.
 
 Day 61- 65: Learn Git and GitHub
-GitHub brings together the world's largest community of developers to discover, share, and build better software. It offers the distributed version control and source code management functionality of Git, plus its own features.
-Learn from the basics how to install Github, how to create a GitHub repository, How to perform various operations and more. As a developer, it’s a must-have skill in the pocket.
+GitHub brings together the world's largest community of developers to discover, share, and build better software. It offers the distributed version control 
+and source code management functionality of Git, plus its own features.
+Learn from the basics how to install Github, how to create a GitHub repository, How to perform various operations and more. As a developer, it’s
+a must-have skill in the pocket.
 
 Day 66 - 80: Learn a CSS Framework - Bootstrap(Recommended)
-This might be a good idea to learn Bootstrap after mastering HTML-CSS and JS. Why? Because until now you might be writing and creating all the layouts from scratch, thus Bootstrap might be a good idea to create web pages with ease. Learn bootstrap grid system and learn how to make it responsive using Bootstrap and how to create elements such as Button, alerts and so much more.
+This might be a good idea to learn Bootstrap after mastering HTML-CSS and JS. Why? Because until now you might be writing and creating all the layouts 
+from scratch, thus Bootstrap might be a good idea to create web pages with ease. Learn bootstrap grid system and learn how to make it responsive using 
+Bootstrap and how to create elements such as Button, alerts and so much more.
 
 Day 81- 120: Learn JS Front End Framework - React (Recommended)
 Modern websites required front end skills such as React, Vue, Angular, Svelte, etc. I would recommend React since it’s very powerful, simple, and most trending.
-React is one of the most popular front end frameworks these days. React makes a simple website interactive without any backend support. Start with Basic of React such as React components, life-cycle, react routing, etc. As a web developer, React is an essential skill to have in the pocket.
+React is one of the most popular front end frameworks these days. React makes a simple website interactive without any backend support. Start with Basic of React such  as React components, life-cycle, react routing, etc. As a web developer, React is an essential skill to have in the pocket.
 Once basic is done and strong, move to the advanced React concepts to master React. Learn concepts such as Dynamic React, React statement management, Redux, React Hooks, etc. Mastering React ensures a strong web development career ahead.
 
 Day 121- 135: Move to Database and Learn MongoDB
